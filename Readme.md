@@ -2,7 +2,7 @@
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="es-ES">
   <head>
     <title>Mi Página Web</title>
   </head>
@@ -10,3 +10,4 @@
     <h1>Hola, Mundo</h1>
   </body>
 </html>
+```
